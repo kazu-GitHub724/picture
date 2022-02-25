@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\user\Documents\授業\プログラミング技法Ⅰ\1nen_matome\1nen_matome\Source.cpp(85): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  C:\Users\user\Documents\授業\プログラミング技法Ⅰ\1nen_matome\1nen_matome\Source.cpp(85): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+C:\Users\user\Documents\授業\プログラミング技法Ⅰ\1nen_matome\1nen_matome\Source.cpp(208): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  C:\Users\user\Documents\授業\プログラミング技法Ⅰ\1nen_matome\1nen_matome\Source.cpp(208): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  1nen_matome.vcxproj -> C:\Users\user\Documents\授業\プログラミング技法Ⅰ\1nen_matome\Debug\1nen_matome.exe
